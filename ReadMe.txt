@@ -2,10 +2,10 @@
 
 
 例如：我们需要保存如下网页中的.jpg后缀的图片
-http://***/147559.html
-http://***/147559_2.html
+http://www.gqnmt.com/sipai/mztphoto/20230413/147559.html
+http://www.gqnmt.com/sipai/mztphoto/20230413/147559_2.html
 到
-http://***/147559_33.html
+http://www.gqnmt.com/sipai/mztphoto/20230413/147559_33.html
 
 
 # 逐一手动保存太麻烦了，费时费力；
