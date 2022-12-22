@@ -12,7 +12,7 @@ if not os.path.exists(folder_path):
     os.makedirs(folder_path)
 
 # TargetWeb_url & User-Agent
-url = 'http://www.gqnmt.com/sipai/mztphoto/20230413/147559.html'
+url = 'http://***/147559.html'
 headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
                   'Chrome/88.0.4324.190 Safari/537.36'}
