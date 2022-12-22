@@ -2,8 +2,8 @@
 import function
 
 # 定义起始的网址链接url & 需要保存的网页数量
-url = "http://www.xgmeitu.com/xinggan/meitu/20230316/145233.html"
-number = 42
+url = "http://***/147559.html"
+number = 10
 
 # 为起始网址单独执行一次操作
 function.function(url)
